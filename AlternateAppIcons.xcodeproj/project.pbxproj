@@ -7,6 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4B4F49D91E3E753F000DEAA1 /* ic_ams.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B4F49CD1E3E753F000DEAA1 /* ic_ams.png */; };
+		4B4F49DA1E3E753F000DEAA1 /* ic_ams@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B4F49CE1E3E753F000DEAA1 /* ic_ams@2x.png */; };
+		4B4F49DB1E3E753F000DEAA1 /* ic_ams@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B4F49CF1E3E753F000DEAA1 /* ic_ams@3x.png */; };
+		4B4F49DC1E3E753F000DEAA1 /* ic_barca.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B4F49D01E3E753F000DEAA1 /* ic_barca.png */; };
+		4B4F49DD1E3E753F000DEAA1 /* ic_barca@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B4F49D11E3E753F000DEAA1 /* ic_barca@2x.png */; };
+		4B4F49DE1E3E753F000DEAA1 /* ic_barca@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B4F49D21E3E753F000DEAA1 /* ic_barca@3x.png */; };
+		4B4F49DF1E3E753F000DEAA1 /* ic_none.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B4F49D31E3E753F000DEAA1 /* ic_none.png */; };
+		4B4F49E01E3E753F000DEAA1 /* ic_none@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B4F49D41E3E753F000DEAA1 /* ic_none@2x.png */; };
+		4B4F49E11E3E753F000DEAA1 /* ic_none@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B4F49D51E3E753F000DEAA1 /* ic_none@3x.png */; };
+		4B4F49E21E3E753F000DEAA1 /* ic_paris.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B4F49D61E3E753F000DEAA1 /* ic_paris.png */; };
+		4B4F49E31E3E753F000DEAA1 /* ic_paris@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B4F49D71E3E753F000DEAA1 /* ic_paris@2x.png */; };
+		4B4F49E41E3E753F000DEAA1 /* ic_paris@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B4F49D81E3E753F000DEAA1 /* ic_paris@3x.png */; };
 		4BB8C00C1E3D84090098791A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BB8C00B1E3D84090098791A /* AppDelegate.swift */; };
 		4BB8C00E1E3D84090098791A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BB8C00D1E3D84090098791A /* ViewController.swift */; };
 		4BB8C0111E3D84090098791A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4BB8C00F1E3D84090098791A /* Main.storyboard */; };
@@ -15,6 +27,18 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4B4F49CD1E3E753F000DEAA1 /* ic_ams.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_ams.png; sourceTree = "<group>"; };
+		4B4F49CE1E3E753F000DEAA1 /* ic_ams@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ic_ams@2x.png"; sourceTree = "<group>"; };
+		4B4F49CF1E3E753F000DEAA1 /* ic_ams@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ic_ams@3x.png"; sourceTree = "<group>"; };
+		4B4F49D01E3E753F000DEAA1 /* ic_barca.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_barca.png; sourceTree = "<group>"; };
+		4B4F49D11E3E753F000DEAA1 /* ic_barca@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ic_barca@2x.png"; sourceTree = "<group>"; };
+		4B4F49D21E3E753F000DEAA1 /* ic_barca@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ic_barca@3x.png"; sourceTree = "<group>"; };
+		4B4F49D31E3E753F000DEAA1 /* ic_none.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_none.png; sourceTree = "<group>"; };
+		4B4F49D41E3E753F000DEAA1 /* ic_none@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ic_none@2x.png"; sourceTree = "<group>"; };
+		4B4F49D51E3E753F000DEAA1 /* ic_none@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ic_none@3x.png"; sourceTree = "<group>"; };
+		4B4F49D61E3E753F000DEAA1 /* ic_paris.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_paris.png; sourceTree = "<group>"; };
+		4B4F49D71E3E753F000DEAA1 /* ic_paris@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ic_paris@2x.png"; sourceTree = "<group>"; };
+		4B4F49D81E3E753F000DEAA1 /* ic_paris@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ic_paris@3x.png"; sourceTree = "<group>"; };
 		4BB8C0081E3D84090098791A /* AlternateAppIcons.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AlternateAppIcons.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4BB8C00B1E3D84090098791A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4BB8C00D1E3D84090098791A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -35,6 +59,25 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4B4F49CC1E3E753F000DEAA1 /* resources */ = {
+			isa = PBXGroup;
+			children = (
+				4B4F49CD1E3E753F000DEAA1 /* ic_ams.png */,
+				4B4F49CE1E3E753F000DEAA1 /* ic_ams@2x.png */,
+				4B4F49CF1E3E753F000DEAA1 /* ic_ams@3x.png */,
+				4B4F49D01E3E753F000DEAA1 /* ic_barca.png */,
+				4B4F49D11E3E753F000DEAA1 /* ic_barca@2x.png */,
+				4B4F49D21E3E753F000DEAA1 /* ic_barca@3x.png */,
+				4B4F49D31E3E753F000DEAA1 /* ic_none.png */,
+				4B4F49D41E3E753F000DEAA1 /* ic_none@2x.png */,
+				4B4F49D51E3E753F000DEAA1 /* ic_none@3x.png */,
+				4B4F49D61E3E753F000DEAA1 /* ic_paris.png */,
+				4B4F49D71E3E753F000DEAA1 /* ic_paris@2x.png */,
+				4B4F49D81E3E753F000DEAA1 /* ic_paris@3x.png */,
+			);
+			path = resources;
+			sourceTree = "<group>";
+		};
 		4BB8BFFF1E3D84090098791A = {
 			isa = PBXGroup;
 			children = (
@@ -54,6 +97,7 @@
 		4BB8C00A1E3D84090098791A /* AlternateAppIcons */ = {
 			isa = PBXGroup;
 			children = (
+				4B4F49CC1E3E753F000DEAA1 /* resources */,
 				4BB8C00B1E3D84090098791A /* AppDelegate.swift */,
 				4BB8C00D1E3D84090098791A /* ViewController.swift */,
 				4BB8C00F1E3D84090098791A /* Main.storyboard */,
@@ -124,9 +168,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4B4F49E01E3E753F000DEAA1 /* ic_none@2x.png in Resources */,
+				4B4F49DD1E3E753F000DEAA1 /* ic_barca@2x.png in Resources */,
+				4B4F49DF1E3E753F000DEAA1 /* ic_none.png in Resources */,
 				4BB8C0161E3D840A0098791A /* LaunchScreen.storyboard in Resources */,
+				4B4F49E31E3E753F000DEAA1 /* ic_paris@2x.png in Resources */,
+				4B4F49DB1E3E753F000DEAA1 /* ic_ams@3x.png in Resources */,
+				4B4F49D91E3E753F000DEAA1 /* ic_ams.png in Resources */,
 				4BB8C0131E3D840A0098791A /* Assets.xcassets in Resources */,
+				4B4F49E11E3E753F000DEAA1 /* ic_none@3x.png in Resources */,
 				4BB8C0111E3D84090098791A /* Main.storyboard in Resources */,
+				4B4F49DC1E3E753F000DEAA1 /* ic_barca.png in Resources */,
+				4B4F49E41E3E753F000DEAA1 /* ic_paris@3x.png in Resources */,
+				4B4F49E21E3E753F000DEAA1 /* ic_paris.png in Resources */,
+				4B4F49DA1E3E753F000DEAA1 /* ic_ams@2x.png in Resources */,
+				4B4F49DE1E3E753F000DEAA1 /* ic_barca@3x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -304,6 +360,7 @@
 				4BB8C01C1E3D840A0098791A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

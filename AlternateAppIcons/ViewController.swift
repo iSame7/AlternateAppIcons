@@ -26,11 +26,11 @@ class ViewController: UIViewController {
         
         switch segmentedControl.selectedSegmentIndex {
         case 1:
-            iconName = "fr"
+            iconName = "ams"
         case 2:
-            iconName = "de"
+            iconName = "barca"
         case 3:
-            iconName = "it"
+            iconName = "paris"
         default:
             break
         }
@@ -50,11 +50,11 @@ class ViewController: UIViewController {
         let currentIcon = UIApplication.shared.alternateIconName ?? ""
         
         switch currentIcon {
-        case "fr":
+        case "ams":
             selectedIndex = 1
-        case "de":
+        case "barca":
             selectedIndex = 2
-        case "it":
+        case "paris":
             selectedIndex = 3
         default:
             break

@@ -6,7 +6,7 @@
 	<dict>
 		<key>CFBundleAlternateIcons</key>
 		<dict>
-			<key>de</key>
+			<key>barca</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
@@ -15,7 +15,7 @@
 				<key>UIPrerenderedIcon</key>
 				<false/>
 			</dict>
-			<key>fr</key>
+			<key>ams</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
@@ -24,7 +24,7 @@
 				<key>UIPrerenderedIcon</key>
 				<false/>
 			</dict>
-			<key>it</key>
+			<key>paris</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
 				<array>
